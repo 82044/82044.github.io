@@ -1,6 +1,6 @@
 body {
     background-color: #546696;
-    background-image: url(list/ahhuf4.jpg);
+    background-image: url(ahhuf4.jpg);
     background-position: center;
     background-size: cover;
     font-family: "SourceSerif4 Regular", serif;
@@ -55,3 +55,4 @@ a:visited {
     font-family: "SourceSerif4 Regular";
     src: url("assets/SourceSerif4-Text-BASIC-Regular.otf");
 }
+
