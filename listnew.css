@@ -1,0 +1,57 @@
+body {
+    background-color: #546696;
+    background-image: url(list/ahhuf4.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: "SourceSerif4 Regular", serif;
+    margin: 0;
+}
+
+main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-top: 0px;
+    border-bottom: 0px;
+    background-color: white;
+    height: 100vh;
+}
+
+#banner {
+    max-width: 50vw;
+}
+
+.astext {
+  background:none;
+  border:none;
+  margin:0;
+  margin-bottom: 16px;
+  padding-left:20px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: "SourceSerif4 Regular", serif;
+}
+
+table {
+    padding-left: 20px;
+}
+
+a {
+    color:black;
+    padding-left: 20px;
+}
+
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+}
+
+@font-face {
+    font-family: "SourceSerif4 Regular";
+    src: url("assets/SourceSerif4-Text-BASIC-Regular.otf");
+}
